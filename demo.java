@@ -5,6 +5,6 @@ class demo{
         int n=sc.nextInt();
         for(int i=0;i<n;i++)
         System.out.print(i+" ");
-        
+        System.out.print("hello");
     }
 }
